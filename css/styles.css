@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#principal{
+    background-color:#E5E5E5;
+}
+
+#d1{
+    position: relative;
+    top:0px;
+    left:0px;
+    width: 100%;
+    height: 38px;
+    bottom: 15px;
+    background-color: #1CD1B0;
+    ;
+}
+
+#desc{
+    position:relative;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    left: 10px;
+    top: 10px;
+}
+
+#h1s{
+    background-color: #00669F;
+    height: 101px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+#titulo1{
+    position:relative;
+    font-family: Roboto, sans-serif;
+    font-size: 40px;
+    top: 28px;
+    left: 28px;
+    bottom: 28px;
+}
+
+#heroe{
+    border-radius: 50%;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+}
+
+.corazones{
+    position: relative;
+    bottom: 270px;
+    left: 25px;
+}
+
+.nombre{
+    font-family: 'Roboto', sans-serif;
+    width: 400px;
+    font-size: 30px;
+}
+
+.h21{
+    position: relative;
+    bottom: 55px;
+    left: 80px;
+}
+
+.parrafo{
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
+
+.p1{
+    position: relative;
+    width: 267px;
+    height: 113px;
+    left: 18px;
+    bottom: 50px;
+}
+
+#div1{
+    width: 300px;
+    height: 529px;
+    position: absolute;
+    left: 32px;
+    top: 291px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#div2{
+    width: 300px;
+    height: 529px;
+    position: absolute;
+    left: 470px;
+    top: 291px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#div3{
+    width: 300px;
+    height: 529px;
+    position: absolute;
+    left: 908px;
+    top: 291px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.botones{
+    background-color: #00669F;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+    color: white;
+    Width: 128.78px;
+    Height: 48.52px;
+}
+
+#bt1{
+    position:relative;
+    left: 80px;
+    bottom: 16px;
+}
+
+
+#pie{
+    position: relative;
+    top: 850px;
+    height: 51px;
+    background-color: #00669F;
+    color: white;
+    
+}
+
+#pf{
+    position:relative;
+    font-family: Roboto,sans-serif;
+    font-size: 16px;
+    left: 16px;
+    top: 16px;
+}
